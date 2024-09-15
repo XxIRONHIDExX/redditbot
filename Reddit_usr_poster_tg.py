@@ -5,9 +5,9 @@ import asyncio
 import telegram
 from telegram.ext import Updater
 
-telegram_token = '6303509139:AAEvBiNISelMrfLMSgQotUQvBEuCyxyBkSo'
-reddit_client_id = 'pf6VriM2VeOoYUi5CId51A'
-reddit_client_secret = 'wjPREx0guhtlJOs-633lUV66eEHmCw'
+telegram_token = ''
+reddit_client_id = ''
+reddit_client_secret = ''
 usernames = ['alisha_xxxx', 'JadeRabbit_', 'petitelady18','Tab_kush', 'ariakhan00', 'ella_petite', 'Lost-Huckleberry7324', 'miaipanema', 'Raw_roxxx', 'X29771628','theawesomekate']  # Replace with the desired Reddit usernames
 
 reddit = praw.Reddit(
